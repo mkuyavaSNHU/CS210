@@ -1,5 +1,4 @@
-# CS210
-Corner Grocer
+# CS210 - Corner Grocer
 
 Summarize the project and what problem it was solving:
 
